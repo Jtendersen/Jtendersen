@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jtendersen" alt="jtendersen" /></a> </p>
 
-- 👀 I’m interested in **learning and gain experience in the IT World**
+- 👀 I’m interested in **continous learning, IoT, and gain experience in the IT World**
 
 - 🌱 I’m currently learning **Next.Js, Tailwind, Web 3.0 and IoT**
 
-- 👯 I’m looking to collaborate on **any project that I could offer my knoledge and experience**
+- 👯 I’m looking to collaborate on **any project that I could offer my knowledge and experience**
 
-- 👨‍💻 Some of my projects are available at [https://portfoliojtendersen.netlify.app/](https://portfoliojtendersen.netlify.app/)
+- 👨‍💻 Some of my projects are available at [https://portfoliojtendersen.netlify.app/](https://portfolio-jtendersen.vercel.app/)
 
 - 💬 Ask me about **Anything you want. If I don´t know the answer we can find it toghether!**
 
