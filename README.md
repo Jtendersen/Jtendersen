@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **any project that I could offer my knowledge and experience**
 
-- 👨‍💻 Some of my projects are available at [https://portfoliojtendersen.netlify.app/](https://portfolio-jtendersen.vercel.app/)
+- 👨‍💻 Some of my projects are available at [https://portfolio-jtendersen.vercel.app/](https://portfolio-jtendersen.vercel.app/)
 
 - 💬 Ask me about **Anything you want. If I don´t know the answer we can find it toghether!**
 
