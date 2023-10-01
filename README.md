@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Juan Manuel Tierno!</h1>
-<h3 align="center">A passionate full stack developer from Tandil, Argentina</h3>
+<h3 align="center">Happiest full stack developer from Tandil, Argentina</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jtendersen&label=Profile%20views&color=0e75b6&style=flat" alt="jtendersen" /> </p>
 
@@ -7,7 +7,11 @@
 
 - 👀 I’m interested in **continous learning, IoT, and gain experience in the IT World**
 
-- 🌱 I’m currently learning **Next.Js, Tailwind, Web 3.0 and IoT**
+- 🌱 I’m currently learning **Next.Js v13 with app Router and AWS**
+
+- 🚀 I've worked as a full-stack developer in several companies both locally and internationally, leading projects and teams to success using scrum methodology.
+
+- 🎓 Currently, I'm embracing the role of Bootcamp Lead at Plataforma 5 Coding Bootcamp, the place that laid my IT foundation. I'm forever grateful for the opportunities it has presented me.
 
 - 👯 I’m looking to collaborate on **any project that I could offer my knowledge and experience**
 
@@ -16,6 +20,8 @@
 - 💬 Ask me about **Anything you want. If I don´t know the answer we can find it toghether!**
 
 - 📫 How to reach me **jtendersen@gmail.com**
+
+- Feel free to reach out if you want to collaborate or just have a chat. I believe in growing together in this ever-evolving world of tech!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
